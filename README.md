@@ -1,7 +1,5 @@
-[![MasterHead](https://lh3.googleusercontent.com/drive-viewer/AKGpihZv-P6Un-D24rh-s8sUcaCuuelPXrGGvGojrJ-smwTygPFTRnEVUvkOKgikqVPjAWwxcddOXk8XIoHLKaOLP7FKwzc6qAew6yc=w910-h948-rw-v1)](https://github.com/antoinebrunet1)
 <h1 align="center">Hi 👋, I'm Antoine Brunet</h1>
 <h3 align="center">Quality Assurance Automation Analyst // I Increase Productivity Through Automation 📈</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫 How to reach me **antoinebrunet1@outlook.com**
 
