@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antoine Brunet</h1>
-<h3 align="center">QA Automation Analyst and Developer</h3>
+<h3 align="center">Software Development Student @ UQAM</h3>
 
 - 📫 How to reach me **antoinebrunet1@outlook.com**
 
