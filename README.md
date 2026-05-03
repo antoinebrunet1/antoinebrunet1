@@ -1,3 +1,5 @@
+![Cover picture](cover.jpg)
+
 ### Hi there 👋
 
 🔭 I’m currently working on [Word Reactor](https://github.com/antoinebrunet1/word-reactor)
