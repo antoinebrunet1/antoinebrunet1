@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 🔭 I’m currently working on [Word Reactor](https://github.com/antoinebrunet1/word-reactor)
 
