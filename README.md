@@ -23,3 +23,7 @@
 ## Web development frameworks
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white) ![Static Badge](https://img.shields.io/badge/spring%20boot-%236DB33F?logo=springboot&logoColor=white)
+
+## Testing
+
+![JUnit5](https://img.shields.io/badge/JUnit5-f5f5f5?logo=junit5&logoColor=dc524a) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?logo=selenium&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?logo=playwright&logoColor=white) ![Static Badge](https://img.shields.io/badge/rest%20assured-white) ![Static Badge](https://img.shields.io/badge/unittest-white) ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?logo=pytest&logoColor=2f9fe3) ![Static Badge](https://img.shields.io/badge/cunit-white)
