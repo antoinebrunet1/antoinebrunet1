@@ -22,4 +22,4 @@
 
 ## Web development frameworks
 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?e&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white) ![Static Badge](https://img.shields.io/badge/spring%20boot-%236DB33F?logo=springboot&logoColor=white)
