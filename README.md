@@ -15,3 +15,5 @@
 📣 I’m looking for contributors for [Word Reactor](https://github.com/antoinebrunet1/word-reactor)
 
 # 🔧 Skills 🔧
+
+## Programming languages
